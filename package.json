@@ -1,0 +1,26 @@
+{
+  "name": "steroid-gettingstarted",
+  "version": "1.0.0",
+  "description": "Getting started with steroid",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/steroid-gettingstarted.git"
+  },
+  "keywords": [
+    "steroid"
+  ],
+  "author": "Olvier <olivier.wietrich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/steroid-gettingstarted/issues"
+  },
+  "homepage": "https://github.com/bredele/steroid-gettingstarted#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "steroid": "^0.9.0"
+  }
+}
